@@ -1,7 +1,7 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
   text-align: center;
 }
 div{
@@ -13,6 +13,13 @@ nav a{
   background-color: grey;
   padding: 10px;
 }
-
+#featured-property{
+  text-align: center;
+}
+#featured-property{
+  width: 37%;
+  text-align: center;
+  margin: auto;
+}
 
 
